@@ -1,0 +1,59 @@
+body {
+    background-color: #f4f4f4; 
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+#topo-site {
+    background-color: #1f4e79;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.titulo-principal {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.subtitulo {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.menu-principal {
+    background-color: rgb(19, 100, 167);
+    padding: 15px 0;
+}
+
+.lista-menu {
+    list-style: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.lista-menu li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.lista-menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+.bloco-conteudo,
+.bloco-lateral {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
